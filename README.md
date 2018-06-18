@@ -8,6 +8,7 @@
 3. [Cars and Cars & Cars](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Cars-and-Cars-Cars.ipynb) by Ramir Austin
 4. [Demographics Analysis of the United States](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Demographic-analysis-US.ipynb) by Keegan Cannon
 5. [Demographic and Feature-Based Analysis of Museum Ratings (TripAdvisor)](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Demographic-and-feature-based-analysis-museum-ratings.ipynb) by Jessica Hoban
+
 6.[Gun Violence in the United States](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Gun-Violence-in-the-United-States.ipynb) by Eugene Yakovlev and Rachel Fisher
 7. [Philadelphia Crime Trends](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Philadelphia-Crime-Trends.ipynb) by Lisa Wen
 8. [The Relationship between Different Demographic Attributes of the United States](https://github.com/INFO212Drexel/201835-final-projects/blob/master/Relationship-between-Different-Demographic-Attributes-of-US.ipynb) by Linh Mai
